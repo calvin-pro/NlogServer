@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogServer", "NlogServer\NlogServer.csproj", "{9F50992E-1A86-47C5-9373-889C34B2C6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestlogServer", "TestlogServer\TestlogServer.csproj", "{773106FC-41D4-4C83-A6B6-2033120B47DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F50992E-1A86-47C5-9373-889C34B2C6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F50992E-1A86-47C5-9373-889C34B2C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F50992E-1A86-47C5-9373-889C34B2C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F50992E-1A86-47C5-9373-889C34B2C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773106FC-41D4-4C83-A6B6-2033120B47DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773106FC-41D4-4C83-A6B6-2033120B47DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773106FC-41D4-4C83-A6B6-2033120B47DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773106FC-41D4-4C83-A6B6-2033120B47DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B3E034-AA3F-4A14-9B43-1912C9D7D671}
+	EndGlobalSection
+EndGlobal
